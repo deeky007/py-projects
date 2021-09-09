@@ -18,5 +18,4 @@ while( first<=last and not found):
    
 if found == False:
     print("Number not found")
-    
-    ''' encoded by L'  '''
+   
