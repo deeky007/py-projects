@@ -1,2 +1,6 @@
 # py-projects
-Python scripts to flex in school / show-off some high level coding skills by copying the code from this repo. 
+This repository is purely made by two of us and we are the current admin 
+anyone can use this as there want 
+THANKS 
+
+Dev shakya && Nirdesh 
